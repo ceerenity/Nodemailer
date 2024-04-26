@@ -92,6 +92,6 @@ Project Link: [https://github.com/ceerenity/Nodemailer](https://github.com/ceere
 [issues-shield]: https://img.shields.io/github/issues/ceerenity/Nodemailer.svg?style=for-the-badge
 [issues-url]: https://github.com/ceerenity/Nodemailer/issues
 [license-shield]: https://img.shields.io/github/license/ceerenity/Nodemailer.svg?style=for-the-badge
-[license-url]: https://github.com/ceerenity/Nodemailer/blob/master/LICENSE
+[license-url]: https://github.com/ceerenity/Nodemailer/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/celine-lei-garcia-151111273/
