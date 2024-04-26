@@ -75,7 +75,7 @@ Don't forget to give the project a star! Thanks again!
 
 Ceerenity - clnleig@gmail.com
 
-Project Link: [https://github.com/DuuEyn/Monthly-tracker-duplicator](https://github.com/DuuEyn/Monthly-tracker-duplicator)
+Project Link: [https://github.com/ceerenity/Nodemailer](https://github.com/ceerenity/Nodemailer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,15 +83,15 @@ Project Link: [https://github.com/DuuEyn/Monthly-tracker-duplicator](https://git
 <!-- MARKDOWN LINKS & IMAGES -->
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [node-url]: https://nodejs.org/
-[contributors-shield]: https://img.shields.io/github/contributors/DuuEyn/Monthly-tracker-duplicator.svg?style=for-the-badge
-[contributors-url]: https://github.com/DuuEyn/Monthly-tracker-duplicator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/DuuEyn/Monthly-tracker-duplicator.svg?style=for-the-badge
-[forks-url]: https://github.com/DuuEyn/Monthly-tracker-duplicator/network/members
-[stars-shield]: https://img.shields.io/github/stars/DuuEyn/Monthly-tracker-duplicator.svg?style=for-the-badge
-[stars-url]: https://github.com/DuuEyn/Monthly-tracker-duplicator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/DuuEyn/Monthly-tracker-duplicator.svg?style=for-the-badge
-[issues-url]: https://github.com/DuuEyn/Monthly-tracker-duplicator/issues
-[license-shield]: https://img.shields.io/github/license/DuuEyn/Monthly-tracker-duplicator.svg?style=for-the-badge
-[license-url]: https://github.com/DuuEyn/Monthly-tracker-duplicator/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/ceerenity/Nodemailer.svg?style=for-the-badge
+[contributors-url]: https://github.com/ceerenity/Nodemailer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ceerenity/Nodemailer.svg?style=for-the-badge
+[forks-url]: https://github.com/ceerenity/Nodemailer/forks
+[stars-shield]: https://img.shields.io/github/stars/ceerenity/Nodemailer.svg?style=for-the-badge
+[stars-url]: https://github.com/ceerenity/Nodemailer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ceerenity/Nodemailer.svg?style=for-the-badge
+[issues-url]: https://github.com/ceerenity/Nodemailer/issues
+[license-shield]: https://img.shields.io/github/license/ceerenity/Nodemailer.svg?style=for-the-badge
+[license-url]: https://github.com/ceerenity/Nodemailer/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ian-dewaine-diche-69406a2bb
+[linkedin-url]: https://www.linkedin.com/in/celine-lei-garcia-151111273/
